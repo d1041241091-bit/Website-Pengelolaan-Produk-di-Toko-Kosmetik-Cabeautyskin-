@@ -1,45 +1,28 @@
 # Cabeautyskin
+
 ## Website Pengelolaan Data Produk pada Toko Kosmetik
 
-### 1. Deskripsi Proyek
-Cabeutyskin merupakan website yang dirancang untuk membantu pengelolaan data produk pada toko kosmetik. Sistem ini ditujukan bagi Admin untuk mengelola informasi produk secara terstruktur.
+### Deskripsi
+Cabeautyskin merupakan website pengelolaan data produk pada toko kosmetik yang dirancang untuk membantu Admin dalam mencatat, menyimpan, dan mengelola informasi produk secara terstruktur.
 
-### 2. Tujuan
-- Mempermudah pencatatan data produk kosmetik.
-- Membantu pengelolaan informasi harga dan stok.
-- Mempermudah pencarian dan pembaruan data produk.
-- Menyediakan sistem pengelolaan produk berbasis web.
+### Tujuan
+Membangun sistem pengelolaan data produk kosmetik berbasis web agar proses pencatatan dan pembaruan informasi produk menjadi lebih mudah.
 
-### 3. Teknologi yang Digunakan
+### Pengguna Sistem
+Admin
+
+### Teknologi
 - HTML
 - CSS
 - PHP
 - HeidiSQL
 - Laragon
-- GitHub
 
-### 4. Fitur Sistem yang Direncanakan
+### Fitur Utama
 - Login dan logout Admin.
 - Dashboard Admin.
-- Menampilkan data produk.
-- Menambah data produk.
-- Mengubah data produk.
-- Menghapus data produk.
-- Mengelola kategori dan stok produk.
+- Pengelolaan data produk.
+- Pengelolaan kategori dan stok produk.
 
-### 5. Progres Milestone UAS Tahap 1
-1. Menentukan judul dan konsep website Cabeutyskin.
-2. Menentukan tujuan, kebutuhan sistem, dan hak akses Admin.
-3. Menyusun rancangan awal fitur dan struktur database.
-4. Membuat repository GitHub.
-5. Membuat branch dokumentasi dengan nama `chore`.
-
-### 6. Status Pengerjaan
-Tahap perancangan dan persiapan awal proyek sedang berlangsung. Implementasi website akan dilanjutkan secara bertahap sesuai dengan rencana pengembangan.
-
-### 7. Identitas Proyek
-- Nama Proyek: Cabeutyskin
-- Jenis Proyek: Website Pengelolaan Data Produk
-- Pengguna Sistem: Admin
-- Pemilik Repository: d1041241091-bit
--
+### Status Proyek
+Dalam tahap perancangan dan pengembangan awal.
