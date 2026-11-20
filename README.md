@@ -1,4 +1,4 @@
-# Cabeutyskin
+# Cabeautyskin
 ## Website Pengelolaan Data Produk pada Toko Kosmetik
 
 ### 1. Deskripsi Proyek
